@@ -1,0 +1,429 @@
+<yml_catalog date="2023-06-13 11:19>">
+<shop>
+<name>Jeforel</name>
+<company>ИП Расторгуев Роман Сергеевич</company>
+<url>https://jeforel.com/courses</url>
+<email>school@jeforel.ru</email>
+<picture>https://static.tildacdn.com/tild3139-3563-4463-b231-303831636536/photo.png</picture>
+<description>Онлайн-школа скетчинга и иллюстрации. Клуб иллюстраторов.</description>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<sets>
+<set id="set_1">
+<name> Курс по цифровой иллюстрации Анатомия женского тела</name>
+<url>https://jeforel.com/courses/anatomiya_tela</url>
+</set>
+<set id="set_2">
+<name>Курс по созданию цифровых иллюстраций Fashion иллюстрация</name>
+<url>https://jeforel.com/courses/fashion_illustration</url>
+</set>
+<set id="set_3">
+<name>Курс fashion-иллюстрации Fashion Looks</name>
+<url>https://jeforel.com/courses/fashion_looks</url>
+</set>
+<set id="set_4">
+<name>Курс рисование лица в ручной графике (часть 2) Лицо 2.0</name>
+<url>https://jeforel.com/courses/litso20</url>
+</set>
+<set id="set_5">
+<name>Курс по рисованию портретов в ручной графике Лицо</name>
+<url>https://jeforel.com/courses/litso</url>
+</set>
+<set id="set_6">
+<name>Курс рисования Про Ipad 2.0</name>
+<url>https://jeforel.com/courses/ipad20</url>
+</set>
+<set id="set_7">
+<name>Курс рисования на ipad с нуля Про iPad Старт</name>
+<url>https://jeforel.com/courses/pro-ipad-start</url>
+</set>
+<set id="set_8">
+<name>Курс в ручной графике Скетчборд PRO</name>
+<url>https://jeforel.com/courses/sketchboard</url>
+</set>
+<set id="set_9">
+<name>Курс по созданию цифровых иллюстраций на iPad Анималистика с любовью</name>
+<url>https://jeforel.com/courses/animals</url>
+</set>
+<set id="set_10">
+<name>Курс по заработку на nft от Ксении Арбузовой Привет, NFT</name>
+<url>https://jeforel.com/courses/nft</url>
+</set>
+<set id="set_11">
+<name>Курс на iPad Стикеры в Telegram</name>
+<url>https://jeforel.com/courses/stickers</url>
+</set>
+<set id="set_12">
+<name>Курс по созданию персонажа</name>
+<url>https://jeforel.com/courses/character</url>
+</set>
+<set id="set_13">
+<name>Курс рисования на iPad Детали интерьера Интерьерный скетчинг</name>
+<url>https://jeforel.com/courses/detali</url>
+</set>
+<set id="set_14">
+<name>Мини-курс на iPad Архитектурные зарисовки</name>
+<url>https://jeforel.com/courses/architecture</url>
+</set>
+<set id="set_15">
+<name>Курс на iPad Найди свой стиль</name>
+<url>https://jeforel.com/courses/find_style</url>
+</set>
+<set id="set_16">
+<name>Курс по освещению Magic Light</name>
+<url>https://jeforel.com/courses/magic-light</url>
+</set>
+<set id="set_17">
+<name>Курс по работе с заказчиками Про иллюстратор</name>
+<url>https://jeforel.com/courses/pro</url>
+</set>
+<set id="set_18">
+<name>Курс по монетизации творчества и коммерческой иллюстрации Богатый иллюстратор</name>
+<url>https://jeforel.com/courses/rich</url>
+</set>
+<set id="set_19">
+<name>Курс Основы Скетчинга</name>
+<url>https://jeforel.com/courses/osnovi_sketching</url>
+</set>
+</sets>
+<offers>
+<offer id="offer546">
+<set-ids>set_1</set-ids>
+<name>Курс по цифровой иллюстрации Анатомия женского тела</name>
+<url>https://jeforel.com/courses/anatomiya_tela</url>
+<categoryId>804</categoryId>
+<description>Невероятные уроки рисования, с помощью которых ты познакомишься с пропорциями, формами и мышцами женского тела</description>
+<param name="Продолжительность" unit="час">7.5</param>
+<picture>https://static.tildacdn.com/tild6633-6463-4130-a435-346662396665/2_1.jpg</picture>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<adult>true</adult>
+<param name="План" order="1" unit="Урок 1" >Введение и обучение основам для начинающих</param>
+<param name="План" order="2" unit="Урок 2" >Все о направляющих в рисовании фигуры</param>
+<param name="План" order="3" unit="Урок 3" >Методы работы с сечениями, формами и ракурсами</param>
+<param name="План" order="4" unit="Урок 4" >Особенности рисования ног</param>
+<param name="План" order="5" unit="Урок 5" >Скетчинг головы</param>
+<param name="План" order="7" unit="Урок 6" >Рисунок лица</param>
+</offer>
+<offer id="offer547">
+<set-ids>set_2</set-ids>
+<name>Курс по созданию цифровых иллюстраций Fashion иллюстрация</name>
+<url>https://jeforel.com/courses/fashion_illustration</url>
+<categoryId>813</categoryId>
+<description>Курс для тех, кто хочет создать целую коллекцию уникальных образов</description>
+<param name="Продолжительность" unit="час">13.5</param>
+<picture>https://thumb.tildacdn.com/tild3263-6531-4165-b362-313563633039/-/resize/734x/-/format/webp/photo.jpg</picture>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Рисуем статичную Fashion фигуру </param>
+<param name="План" order="2" unit="Урок 2" > Анатомия тела. Учимся Fashion стилизации</param>
+<param name="План" order="3" unit="Урок 3" >Построение Fashion фигуры в динамике</param>
+<param name="План" order="4" unit="Урок 4" >Рисуем динамичный Street-Style образ в цвете</param>
+<param name="План" order="5" unit="Урок 5" > Рисуем осенний образ с подиума в динамике</param>
+<param name="План" order="6" unit="Урок 6" >Рисуем динамичный Fashion скетч кутюрного платья</param>
+<param name="План" order="7" unit="Урок 7" >Аксессуары: рисуем яркую сумку и жаккардовые туфли</param>
+</offer>
+<offer id="offer548">
+<set-ids>set_3</set-ids>
+<name>Курс fashion-иллюстрации Fashion Looks</name>
+<url>https://jeforel.com/courses/fashion_looks</url>
+<categoryId>404</categoryId>
+<description>Авторский мини-курс фэшн иллюстрации по рисованию эскизов и дизайна одежды, дополняющий уроки по анатомии</description>
+<param name="Продолжительность" unit="час">5.5</param>
+<picture>https://elitekurs.com/wp-content/uploads/2022/12/jeforel-fashion-looks-tarif-pokupka-zhenya-shubina_6393b778899ec.png</picture>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Архитектура складок</param>
+<param name="План" order="2" unit="Урок 2" >Бархат</param>
+<param name="План" order="3" unit="Урок 3" >Атласное платье</param>
+<param name="План" order="4" unit="Урок 4" >Шерстяной свитер oversize</param>
+<param name="План" order="5" unit="Урок 5" >Шифоновая ткань</param>
+</offer>
+<offer id="offer549">
+<set-ids>set_4</set-ids>
+<name>Курс рисование лица в ручной графике. Лицо 2.0</name>
+<url>https://jeforel.com/courses/litso20</url>
+<categoryId>699</categoryId>
+<description>Научишься строить лицо, анализировать формы и объемы. Прокачаешь штриховку и изучишь элементы лица.</description>
+<param name="Продолжительность" unit="час">12</param>
+<picture>https://thumb.tildacdn.com/tild3237-3862-4536-a231-373365363363/-/format/webp/IMG_7644_2.PNG</picture>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Обрубовка головы</param>
+<param name="План" order="2" unit="Урок 2" >Рисуем глаза девушки в объеме</param>
+<param name="План" order="3" unit="Урок 3" >Рисуем красивые губы в технике линейный. скетч</param>
+<param name="План" order="4" unit="Урок 4" >Рисуем ухо в объеме</param>
+<param name="План" order="5" unit="Урок 5" >Разбираем тонкости рисования носа</param>
+<param name="План" order="6" unit="Урок 6" >Рисуем в связке глаза с носом + разбор ресниц и бровей</param>
+<param name="План" order="7" unit="Урок 7" >Рисуем прическу и разбираем, как рисовать волосы</param>
+<param name="План" order="8" unit="Урок 8" >Рисуем лицо девушки в трех ракурсах</param>
+</offer>
+<offer id="offer550">
+<set-ids>set_5</set-ids>
+<name>Курс по рисованию портретов в ручной графике Лицо</name>
+<url>https://jeforel.com/courses/litso</url>
+<categoryId>699</categoryId>
+<description>Научишься строить лицо, анализировать формы и объемы. Прокачаешь штриховку и изучишь элементы лица.</description>
+<param name="Продолжительность" unit="час">11</param>
+<picture>https://thumb.tildacdn.com/tild6262-6431-4130-b061-333537333566/-/resize/680x/-/format/webp/_.png</picture>
+<price>23000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Выбор материалов</param>
+<param name="План" order="2" unit="Урок 2" >Основы сочетания цветов</param>
+<param name="План" order="3" unit="Урок 3" >Анатомия глаза</param>
+<param name="План" order="4" unit="Урок 4" >Стилизация глаз</param>
+<param name="План" order="5" unit="Урок 5" >Архитектура бровей</param>
+<param name="План" order="6" unit="Урок 6" >Основы построения губ</param>
+<param name="План" order="7" unit="Урок 7" >Как рисовать нос</param>
+<param name="План" order="8" unit="Урок 8" >Базовая схема лица</param>
+<param name="План" order="9" unit="Урок 9" >Основные пропорции лица</param>
+<param name="План" order="10" unit="Урок 10" >Полигональный портрет</param>
+</offer>
+<offer id="offer551">
+<set-ids>set_6</set-ids>
+<name>Курс рисования Про iPad 2.0 </name>
+<url>https://jeforel.com/courses/ipad20</url>
+<categoryId>404</categoryId>
+<description>Долгожданный и совершенно новый курс по цифровой иллюстрации в Procreate!</description>
+<param name="Продолжительность" unit="час">11</param>
+<picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZr65pP52WDsX0TK6dOoqpjORR38lUB9rLz-mCTN1ErL9R3Op9FXkCgCYuzfjloMr_f50&usqp=CAU</picture>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >15 новинок от procreate + фишки и лайфхаки</param>
+<param name="План" order="2" unit="Урок 2" >Композиция: совмещаем фото с текстом, создаем тени иллюстрации</param>
+<param name="План" order="3" unit="Урок 3" >Рисуем набор стикеров в едином стиле для инстаграм и телеграм</param>
+<param name="План" order="4" unit="Урок 4" >Все об inspiration и работе с референсами</param>
+<param name="План" order="5" unit="Урок 5" >Научим тонкости работы с заказчиком</param>
+<param name="План" order="6" unit="Урок 6" >Как создать кисть самостоятельно</param>
+<param name="План" order="7" unit="Урок 7" >Работа с текстурами иллюстрации</param>
+<param name="План" order="8" unit="Урок 8" >Как делать архитектурные зарисовки</param>
+<param name="План" order="9" unit="Урок 9" >Мир ботаники</param>
+<param name="План" order="10" unit="Урок 10" >Портрет в стиле фэшн на текстурной бумаге</param>
+</offer>
+<offer id="offer552">
+<set-ids>set_7</set-ids>
+<name>Курс рисования на ipad с нуля Про iPad Старт</name>
+<url>https://jeforel.com/courses/pro-ipad-start</url>
+<categoryId>813</categoryId>
+<description>Уроки по созданию цифровых иллюстраций на IPad с нуля для начинающих.</description>
+<param name="Продолжительность" unit="час">6.5</param>
+<picture>https://thumb.tildacdn.com/tild3463-3366-4366-b832-666463313637/-/resize/726x/-/format/webp/IMG_2317.PNG</picture>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Разбор интерфейса и функций программы Procreate</param>
+<param name="План" order="2" unit="Урок 2" >Все о кистях и текстурах создание кистей procreate</param>
+<param name="План" order="3" unit="Урок 3" >Изучим интерфейс работы с палитрами, цветовым кругом и слоями</param>
+<param name="План" order="4" unit="Урок 4" >Знакомство с Fast fashion sketch</param>
+<param name="План" order="5" unit="Урок 5" >Иллюстрация от чернового скетча до цвета</param>
+<param name="План" order="6" unit="Урок 6" >Отрисовка современной игральной карты</param>
+<param name="План" order="7" unit="Урок 7" >Визуальный ассоциативный ряд</param>
+<param name="План" order="8" unit="Урок 8" >Разработка серии иконок Instagram с нуля</param>
+<param name="План" order="9" unit="Урок 9" >Хайлайтс под ключ - от выбора темы до экспорт</param>
+</offer>
+<offer id="offer553">
+<set-ids>set_8</set-ids>
+<name>Курс в ручной графике Скетчборд PRO</name>
+<url>https://jeforel.com/courses/sketchboard</url>
+<categoryId>813</categoryId>
+<description>Обучение предметной фэшн-иллюстрации! На уроках ты освоишь ручную и диджитал графику, предметный скетчинг, познакомишься с материалами и создашь целую коллекцию стильных иллюстраций на основе необычных и крутых референсов.</description>
+<param name="Продолжительность" unit="час">13</param>
+<picture>https://thumb.tildacdn.com/tild3863-6639-4135-b965-376636336462/-/resize/962x/-/format/webp/noroot.png</picture>
+<price>30000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Разбор материалов предметной иллюстрации</param>
+<param name="План" order="2" unit="Урок 2" >Упражнения с цветом</param>
+<param name="План" order="3" unit="Урок 3" >Travel - скетчинг - посети 3 страны</param>
+<param name="План" order="4" unit="Урок 4" >Рисуем фэшн-ботанику</param>
+<param name="План" order="5" unit="Урок 5" >Стильная раскладка wish-list</param>
+<param name="План" order="6" unit="Урок 6" >Знакомство с интерфейсом Procreate</param>
+<param name="План" order="7" unit="Урок 7" >Стикерпак Russia + France</param>
+<param name="План" order="8" unit="Урок 8" >Fashion style скетчинг</param>
+</offer>
+<offer id="offer554">
+<set-ids>set_9</set-ids>
+<name>Курс по созданию цифровых иллюстраций на iPad Анималистика с любовью</name>
+<url>https://jeforel.com/courses/animals</url>
+<categoryId>813</categoryId>
+<description>Авторский курс по анималистике от Анастасии Химченко в digital графике</description>
+<param name="Продолжительность" unit="час">7.5</param>
+<picture>https://thumb.tildacdn.com/tild3865-6534-4532-b035-623537376330/-/format/webp/Prevyu-1-transformed.png</picture>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Текстуры</param>
+<param name="План" order="2" unit="Урок 2" >Форма и построение</param>
+<param name="План" order="3" unit="Урок 3" >Анатомия</param>
+<param name="План" order="4" unit="Урок 4" >Быстрые скетчи</param>
+<param name="План" order="5" unit="Урок 5" >Портрет</param>
+</offer>
+<offer id="offer555">
+<set-ids>set_10</set-ids>
+<name>Курс по заработку на nft от Ксении Арбузовой Привет, NFT</name>
+<url>https://jeforel.com/courses/nft</url>
+<categoryId>404</categoryId>
+<description>Твой пошаговый план быстрого старта в NFT: от основ до первых продаж</description>
+<param name="Продолжительность" unit="час">4.5</param>
+<picture>https://static.tildacdn.com/tild6634-3035-4266-b431-623938336261/photo.png</picture>
+<price>50000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Основы</param>
+<param name="План" order="2" unit="Урок 2" >Кошелек</param>
+<param name="План" order="3" unit="Урок 3" >Opensea</param>
+<param name="План" order="4" unit="Урок 4" >Продвижение</param>
+<param name="План" order="5" unit="Урок 5" >Коллекционеры</param>
+</offer>
+<offer id="offer556">
+<set-ids>set_11</set-ids>
+<name>Курс на iPad Стикеры в Telegram</name>
+<url>https://jeforel.com/courses/stickers</url>
+<categoryId>813</categoryId>
+<description>Создание стикеров в Telegram в программе Procreate</description>
+<param name="Продолжительность" unit="час">1.5</param>
+<picture>https://static.tildacdn.com/tild3536-6165-4331-a535-353635336333/3.JPG</picture>
+<price>20000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Рисуем стикер HELLO </param>
+<param name="План" order="2" unit="Урок 2" >Рисуем стикер GOOD MORNING </param>
+<param name="План" order="3" unit="Урок 3" >Рисуем стикер GOOD NIGHT</param>
+<param name="План" order="4" unit="Урок 4" >Загружаем стикеры в телеграмм БОТ</param>
+</offer>
+<offer id="offer557">
+<set-ids>set_12</set-ids>
+<name>Курс по созданию персонажа</name>
+<url>https://jeforel.com/courses/character</url>
+<categoryId>804</categoryId>
+<description>Мы пройдем вместе интереснейший путь по созданию персонажа! Разберем все от теории до практики и стилизации, а также нарисуем несколько необычных персонажей!</description>
+<param name="Продолжительность" unit="час">3</param>
+<picture>https://thumb.tildacdn.com/tild6339-3266-4866-b863-376634333231/-/format/webp/-2.png</picture>
+<price>20000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Теоретическая часть об иллюстрациях с персонажами и их созданием</param>
+<param name="План" order="2" unit="Урок 2" >Практика стилизация героя в разных вариациях</param>
+<param name="План" order="3" unit="Урок 3" >Практика концепция и отражение характ</param>
+</offer>
+<offer id="offer558">
+<set-ids>set_13</set-ids>
+<name>Курс рисования на iPad Детали интерьера Интерьерный скетчинг</name>
+<url>https://jeforel.com/courses/detali</url>
+<categoryId>813</categoryId>
+<description>Обучаем рисованию интерьера крупным планом в приложении Procreate. Фактуры дерева, кожи и текстиля</description>
+<param name="Продолжительность" unit="час">17.5</param>
+<picture>https://static.tildacdn.com/tild3762-3462-4137-b466-303939313532/IMG_2675.JPG</picture>
+<price>35000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Рисуем спальню в бирюзовом цвете</param>
+<param name="План" order="2" unit="Урок 2" >Гостиная с ярким диваном</param>
+<param name="План" order="3" unit="Урок 3" >Кухня с предметами обихода</param>
+<param name="План" order="4" unit="Урок 4" >Спальня в пастельных тонах</param>
+<param name="План" order="5" unit="Урок 5" >Прихожая - стильная и лаконичная</param>
+<param name="План" order="6" unit="Урок 6" >Рисуем керамические изделия и другие текстуры на планшете</param>
+<param name="План" order="7" unit="Урок 7" >Рисуем яркие подушки</param>
+</offer>
+<offer id="offer559">
+<set-ids>set_14</set-ids>
+<name>Мини-курс на iPad Архитектурные зарисовки</name>
+<url>https://jeforel.com/courses/architecture</url>
+<categoryId>813</categoryId>
+<description>В этом курсе мы займемся архитектурными зарисовками и пройдем путь от очень лаконичного до максимального детализированного сюжета, а также разберемся с линейной и свето-воздушной перспективой</description>
+<param name="Продолжительность" unit="час">5</param>
+<picture>https://static.tildacdn.com/tild6637-3338-4361-b164-376365633636/2.png</picture>
+<price>35000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Лаконичный сюжет с ярким акцентом</param>
+<param name="План" order="2" unit="Урок 2" >Работа с линейной, световоздушной перспективой и пространством </param>
+<param name="План" order="3" unit="Урок 3" >Насыщенный сюжет, упрощение деталей</param>
+<param name="План" order="4" unit="Урок 4" >Финальная работа (на выбор студента)</param>
+</offer>
+<offer id="offer560">
+<set-ids>set_15</set-ids>
+<name>Курс на iPad Найди свой стиль</name>
+<url>https://jeforel.com/courses/find_style</url>
+<categoryId>813</categoryId>
+<description>В этом курсе ты найдешь ответы на вопросы Как не подражать, а создавать что-то свое?, Как найти свои фишки?</description>
+<param name="Продолжительность" unit="час">6.5</param>
+<picture>https://thumb.tildacdn.com/tild3032-6635-4639-b833-396263316135/-/resize/636x/-/format/webp/__.png</picture>
+<price>30000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Пробуем тонкий черный лайн</param>
+<param name="План" order="2" unit="Урок 2" >Пробуем красный лайн с растушевкой</param>
+<param name="План" order="3" unit="Урок 3" >Как работать с картой стилей</param>
+<param name="План" order="4" unit="Урок 4" >Рисуем в стиле FLAT, анализирую стили других иллюстраторов</param>
+<param name="План" order="5" unit="Урок 5" >Пробуем еще парочку стилей в черно-белом варианте</param>
+<param name="План" order="6" unit="Урок 6" >Миксуем части лица от разных художников</param>
+<param name="План" order="7" unit="Урок 7" >Анализ техники разных художников</param>
+<param name="План" order="8" unit="Урок 8" >Иллюстрация в стиле Yulia Breyneng</param>
+<param name="План" order="9" unit="Урок 9" >Иллюстрация в стиле Марии Вьюновой </param>
+<param name="План" order="10" unit="Урок 10" >Иллюстрация в стиле Аллы Черепановой</param>
+</offer>
+<offer id="offer561">
+<set-ids>set_16</set-ids>
+<name>Курс по освещению Magic Light</name>
+<url>https://jeforel.com/courses/magic-light</url>
+<categoryId>813</categoryId>
+<description>Мини-курс по волшебному свету от Анастасии Москвиной. На этом курсе освоишь авторскую технику передачи светотени, познакомитесь с неповторимой стилистикой автора, нарисуешь 4 готовых работы и сможешь применять фишки из курса в вашем творчестве сразу после завершения курса!</description>
+<param name="Продолжительность" unit="час">6.5</param>
+<picture>https://thumb.tildacdn.com/tild3539-6533-4230-b865-313133303232/-/format/webp/IMG_4548.png</picture>
+<price>35000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Рисунок девушки в полный рост </param>
+<param name="План" order="3" unit="Урок 2" >Портрет в крупном плане </param>
+<param name="План" order="4" unit="Урок 3" >Рисунок мужчины в неоновых тонах</param>
+<param name="План" order="5" unit="Урок 4" >Самостоятельный рисунок с освещением на выбор</param>
+</offer>
+<offer id="offer562">
+<set-ids>set_17</set-ids>
+<name>Курс по работе с заказчиками Про иллюстратор</name>
+<url>https://jeforel.com/courses/pro</url>
+<categoryId>404</categoryId>
+<description>В формате лайф подробно рассказываю, как работать с заказчиком при настоящем заказе. Концентрат практики для Про-иллюстраторов.</description>
+<param name="Продолжительность" unit="час">3.5</param>
+<picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nzxSPZN0YABO9tcptzNM0qCIHBHeNMZ9LToIpO8p_kCxOkZJCsbebyBUFwelqpToZYg&usqp=CAU</picture>
+<price>45000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Введение, обзор курса + рекомендация по составлению предложения клиенту</param>
+<param name="План" order="2" unit="Урок 2" >Составляем предварительный список заведений для рассылки предложений</param>
+<param name="План" order="3" unit="Урок 3" >Делюсь лайфхаками - где и как искать кофейни? </param>
+<param name="План" order="4" unit="Урок 4" >Как составить портфолио</param>
+</offer>
+<offer id="offer563">
+<set-ids>set_18</set-ids>
+<name>Курс по монетизации творчества и коммерческой иллюстрации Богатый иллюстратор</name>
+<url>https://jeforel.com/courses/rich</url>
+<categoryId>404</categoryId>
+<description>Пошаговый план по монетизации своего творчества в иллюстрации. Только практика, никакой воды.</description>
+<param name="Продолжительность" unit="час">6.5</param>
+<picture>https://thumb.tildacdn.com/tild6464-6438-4665-b961-353164636537/-/resize/822x/-/format/webp/_.png</picture>
+<price>45000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Мой путь, как развиваться и монетизировать творчество</param>
+<param name="План" order="2" unit="Урок 2" >Мышление и монетизация творчества успешного художника</param>
+<param name="План" order="3" unit="Урок 3" > Создание личного бренда в иллюстрации</param>
+<param name="План" order="4" unit="Урок 4" >50 идей контента для творчества</param>
+<param name="План" order="5" unit="Урок 5" >Оформление, ведение аккаунта в соц.сетях и его монетизация</param>
+<param name="План" order="6" unit="Урок 6" > Виды контента и тексты в продвижении</param>
+<param name="План" order="7" unit="Урок 7" >Как заработать иллюстратору. Таргетированная реклама и бизнес-аккаунт</param>
+<param name="План" order="8" unit="Урок 8" >Создание и анализ рекламной компании, искусство это хорошая инвестиция</param>
+</offer>
+<offer id="offer564">
+<set-ids>set_19</set-ids>
+<name>Курс основы скетчинга</name>
+<url>https://jeforel.com/courses/osnovi_sketching</url>
+<categoryId>813</categoryId>
+<description>Рисование для начинающих от Жени Шубиной. В нашей школе ты получишь базовое представление о формах и перспективе. Пройдешь занятия по основам скетчинга на которых прокачаешь штриховки и правильно поставишь руку. Изучишь передачи светотени, получишь базу для создания более сложных иллюстраций.</description>
+<param name="Продолжительность" unit="час">3.5</param>
+<picture>https://static.tildacdn.com/tild3539-6266-4665-b632-346664303336/photo.jpg</picture>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<param name="План" order="1" unit="Урок 1" >Вводный урок по основам скетчинга и слово от автора</param>
+<param name="План" order="2" unit="Урок 2" >Тренируем живой лайн </param>
+<param name="План" order="3" unit="Урок 3" >Ставим руку и тренируем штрих</param>
+<param name="План" order="4" unit="Урок 4" >Упражнения на штриховку и прописи</param>
+<param name="План" order="5" unit="Урок 5" >Основы перспективы </param>
+<param name="План" order="6" unit="Урок 6" >Фронтальная перспек одной точкой входа</param>
+<param name="План" order="7" unit="Урок 7" >Контраст перспективы предметов разных масштабов</param>
+<param name="План" order="8" unit="Урок 8" >Угловая перспектива на примере куба</param>
+<param name="План" order="9" unit="Урок 9" >Построение эллипса</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
